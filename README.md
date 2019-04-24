@@ -1,2 +1,3 @@
 # hello-word
-just anotner repository
+Hi Humans!
+I'm 
